@@ -1,0 +1,1 @@
+# -Definir-las-siguientes-funciones-que-devuelvan-los-siguientes-resultados
